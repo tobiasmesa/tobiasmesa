@@ -1,9 +1,9 @@
-# < Hello 🌎 ! <img src= "wave.gif" width="30px"/> />
+# < Hello World 🌎! <img src= "wave.gif" width="30px"/> />
 
-### Soy Tobias Mesa
+### I'm Tobias Mesa. Junior Developer. IT Technician.
 
-- 🔭 Apasionado por la tecnología
-- 🌱 Estudiante de Programacion en UTN y CoderHouse
+- 🔭 Passionate about technology.
+- 🌱 Student on Universidad Tecnológica Nacional and Coderhouse.
 <div align="center">
   <a href="https://github.com/davidluiz91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiasmesa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
